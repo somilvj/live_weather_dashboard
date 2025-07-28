@@ -4,7 +4,7 @@ It demonstrates data visualization, API integration, and interactive dashboard d
 
 ## Tools & Technologies:
 
-Power BI
-Weather API 
-Power Query for data transformation
-DAX for calculated metrics
+Power BI<br/>
+Weather API<br/> 
+Power Query for data transformation<br/>
+DAX for calculated metrics<br/>
